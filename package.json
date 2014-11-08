@@ -1,0 +1,24 @@
+{
+  "name": "apikeymanager",
+  "version": "0.0.0",
+  "description": "A tool for managing api keys in REST APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/claydiffrient/apikeymanager.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "key"
+  ],
+  "author": "Clay Diffrient",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claydiffrient/apikeymanager/issues"
+  },
+  "homepage": "https://github.com/claydiffrient/apikeymanager"
+}
