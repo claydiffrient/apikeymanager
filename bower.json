@@ -1,0 +1,31 @@
+{
+  "name": "apikeymanager",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/claydiffrient/apikeymanager",
+  "authors": [
+    "Clay Diffrient <clay.diffrient@gmail.com>"
+  ],
+  "description": "A system for managing REST API key access.",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "REST",
+    "API",
+    "Key"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.0"
+  }
+}
